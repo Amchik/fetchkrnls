@@ -1,0 +1,19 @@
+{
+  "name": "krnls",
+  "version": "1.0.0",
+  "description": "Fetch kernels list from kernel.org",
+  "main": "index.js",
+  "dependencies": {
+    "jsdom": "^16.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "linux",
+    "linux-kernel"
+  ],
+  "author": "Amchik",
+  "license": "MIT"
+}
