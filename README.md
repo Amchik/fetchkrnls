@@ -2,6 +2,8 @@
 
 Console utility for parse kernel.org and shows information about kernel releases.
 
+Useless? Yes.
+
 Example:
 
 ```
