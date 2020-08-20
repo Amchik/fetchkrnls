@@ -1,5 +1,7 @@
 # fetchkrnls
 
+[Normal version that have better performance and cool markup](https://gist.github.com/Amchik/ad0a69963f915939bd4ac9198fc56e53)
+
 Console utility for parse kernel.org and shows information about kernel releases.
 
 Useless? Yes.
