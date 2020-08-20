@@ -3,7 +3,6 @@ const http = require("https");
 const jsdom = require("jsdom").JSDOM;
 
 const resource = "https://www.kernel.org/";
-//const resource = "http://localhost:2555/yes";
 const format = "[{branch}]\t{version}  \t{date}";
 
 function getElementList(node) {
