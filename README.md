@@ -10,13 +10,13 @@ Example:
 
 ```
 $ ./index.js
-[mainline]	5.9-rc1       	2020-08-16
-[stable]	5.8.2         	2020-08-19
-[stable]	5.7.16        	2020-08-19
-[longterm]	5.4.59        	2020-08-19
-[longterm]	4.19.140      	2020-08-19
-[longterm]	4.14.193      	2020-08-07
-[longterm]	4.9.232       	2020-07-31
-[longterm]	4.4.232       	2020-07-31
-[linux-next]	next-20200820  	2020-08-20
+[mainline]	5.9-rc2       	2020-08-23
+[stable]	5.8.5         	2020-08-27
+[stable]	5.7.19 [EOL]  	2020-08-27
+[longterm]	5.4.61        	2020-08-26
+[longterm]	4.19.142      	2020-08-26
+[longterm]	4.14.195      	2020-08-26
+[longterm]	4.9.234       	2020-08-26
+[longterm]	4.4.234       	2020-08-26
+[linux-next]	next-20200828  	2020-08-28
 ```
